@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+models/*.pth
+data/identities.json
+*.log
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/

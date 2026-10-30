@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "angry",
+    "happiness",
+    "disgusted",
+    "fearful",
+    "contempt",
+    "neutral",
+    "sadness",
+    "surprised"
+  ],
+  "mapping_confirmed": true,
+  "source_note": "Verified against the original training and test dataset directory names and the original live emotion detector."
+}
