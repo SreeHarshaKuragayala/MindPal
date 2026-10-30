@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# MindPal — Stage 1 (Laptop Prototype)
+# MindPal — Stage 1
 
 Stage 1 validates the existing EfficientNet-B0 model locally with a webcam. It is intentionally separate from cloud AI, speech, and Raspberry Pi integration.
 
@@ -75,9 +74,6 @@ Create a virtual environment with `python3 -m venv .venv`, activate it, install 
 - Do not collect date of birth, blood type, or email unless a specific feature genuinely needs it. An expression classifier is not a mental-health assessment. MindPal should ask the person how they feel rather than infer their inner state from facial appearance.
 - No API credentials are included. Rotate any credentials that appeared in previously uploaded source files.
 
-## Next stage
-
-Once Stage 1 works and label order is verified: add unit tests against a known sample, temporal smoothing with confidence/quality gates, then face recognition + opt-in enrollment, followed by mic/speaker interaction and the Nebius-hosted conversation layer.
 =======
 # MindPal
 >>>>>>> 038d2efbfecd992974c3973e212a6c51f5c88e5d
